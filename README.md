@@ -1,4 +1,4 @@
-# Desktop_Assitant_Using_Python
+# Desktop_Assistant_Using_Python
 
 The application is programmed in python. Different open source libraries have been used in the project. 
 The main aim of project is to provide a desktop voice assistant which can perform basic tasks on voice command by user. This can be helpful while multi-tasking. 
